@@ -1,0 +1,1 @@
+<div class="col-sm-12 footer"><img src="{{ url('/img/footer.png') }}" class="img-responsive" border="0"></div>
